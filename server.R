@@ -1,4 +1,5 @@
 library(shiny)
+library(ggplot2)
 # DATASET
 dados <- read.csv("pcvalue.csv", sep=",", header=T)
 colnames(dados)[3] <- "PCDELL"; colnames(dados)[4] <- "PCHP"; colnames(dados)[5] <- "iMAC"
