@@ -6,8 +6,11 @@ Developing Data Products
 You can access my app here: https://joseantonio.shinyapps.io/PROJETO-FINAL/
 
 Write a shiny application with associated supporting documentation to users.
+
 -Deploy the application on Rstudio's shiny server
+
 -Share the application link by pasting it into the text box below
+
 -Share your server.R and ui.R code on github
 
 ## Reproducible Pitch Presentation
