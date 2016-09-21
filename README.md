@@ -5,17 +5,15 @@ Developing Data Products
 
 You can access my app here: https://joseantonio.shinyapps.io/PROJETO-FINAL/
 
-Write a shiny application with associated supporting documentation to users.
+Write a shiny application with associated supporting documentation to users following:
 
--Deploy the application on Rstudio's shiny server
-
--Share the application link by pasting it into the text box below
-
--Share your server.R and ui.R code on github
+- Deploy the application on Rstudio's shiny server
+- Share the application link by pasting it into the text box below
+- Share your server.R and ui.R code on github
 
 ## Reproducible Pitch Presentation
 
-**BMIPitch Repository** http://crazyfarang.github.io/BMIPitch/index.html
+**Pitch Repository** http://crazyfarang.github.io/BMIPitch/index.html
 
 After made the Shiny app, make your pitch. 
 - You get 5 slides (inclusive of the title slide)  to pitch a your app. 
