@@ -1,5 +1,5 @@
 library(shiny)
-
+library(ggplot2)
 ## UI
 shinyUI(
         fluidPage(
